@@ -2,6 +2,37 @@
   text-align: center;
 }
 
+body {
+  background: url("/src/unnamed.jpg") center no-repeat fixed;
+  background-size: cover;
+}
+
+.btn {
+  margin: 5px;
+}
+
+nav {
+  padding-bottom: 10px;
+}
+
+div .buttons {
+  justify-content: right;
+  align-items: flex-end;
+}
+
+.links {
+  text-decoration: none;
+  color: white;
+}
+
+nav {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
