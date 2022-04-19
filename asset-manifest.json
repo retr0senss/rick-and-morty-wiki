@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/rick-and-morty-wiki/static/css/main.cdecffb7.css",
+    "main.js": "/rick-and-morty-wiki/static/js/main.9f638997.js",
+    "static/js/787.bb1b1e02.chunk.js": "/rick-and-morty-wiki/static/js/787.bb1b1e02.chunk.js",
+    "static/media/background.png": "/rick-and-morty-wiki/static/media/background.f04118b8125fc737fe87.png",
+    "static/media/unnamed.jpg": "/rick-and-morty-wiki/static/media/unnamed.4daf1955e5c60ff9374a.jpg",
+    "static/media/logo.png": "/rick-and-morty-wiki/static/media/logo.de3062ed18fb4232c53c.png",
+    "index.html": "/rick-and-morty-wiki/index.html",
+    "main.cdecffb7.css.map": "/rick-and-morty-wiki/static/css/main.cdecffb7.css.map",
+    "main.9f638997.js.map": "/rick-and-morty-wiki/static/js/main.9f638997.js.map",
+    "787.bb1b1e02.chunk.js.map": "/rick-and-morty-wiki/static/js/787.bb1b1e02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdecffb7.css",
+    "static/js/main.9f638997.js"
+  ]
+}
